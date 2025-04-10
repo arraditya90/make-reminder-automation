@@ -1,0 +1,6 @@
+Deal ID,Lender Name,Lender Email,Date Shared,Status,Reminder Sent
+D001,Axis Bank,lender1@axis.com,4/7/2025,Pending,No
+D002,HDFC Capital,lender2@hdfc.com,4/7/2025,Actioned,No
+D003,ICICI Ventures,lender3@icici.com,4/9/2025,Pending,No
+D004,Kotak Finance,lender4@kotak.com,4/10/2025,Actioned,Yes
+D005,SBI Ventures,lender5@sbi.com,4/8/2025,Pending,Yes
